@@ -14,7 +14,7 @@ import imp
 import ntpath
 
 import regtrees as tr
-from learn_tree_funcs import *
+from learn_tree_funcs2 import *
 
 # boolean relaxing all binary and integer variables to be continuous
 relaxation = 0
